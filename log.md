@@ -17,3 +17,9 @@
 **Today's Progress**: Finished all of the Basic Javascript problems on Free Code Camp.
 
 **Thoughts**: I'm making faster progress on Free Code Camp then I expected. Aiming to get the FCC Front End Certificate before the Day 50 mark.
+
+### Day 4: January 9, Monday
+
+**Today's Progress**: Finished all of the Object Oriented and Functional Programming problems on Free Code Camp. Also started Basic Algorithms section.
+
+**Thoughts**: Got farther then I did last year on Free Code Camp in just the past 4 days.
