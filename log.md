@@ -23,3 +23,10 @@
 **Today's Progress**: Finished all of the Object Oriented and Functional Programming problems on Free Code Camp. Also started Basic Algorithms section.
 
 **Thoughts**: Got farther then I did last year on Free Code Camp in just the past 4 days.
+
+### Day 5: January 10, Tuesday
+
+**Today's Progress**: Almost done with the FCC Basic Algorithms section. Relearning the built in objects. 
+
+**Thoughts**: Need to work more on algorithms. Seems to be my weak point so far. Might be able to finish the Front End section by Day 25 if I keep pushing myself to do more than an hour a day.
+
