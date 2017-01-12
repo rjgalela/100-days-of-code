@@ -30,3 +30,9 @@
 
 **Thoughts**: Need to work more on algorithms. Seems to be my weak point so far. Might be able to finish the Front End section by Day 25 if I keep pushing myself to do more than an hour a day.
 
+### Day 6: January 11, Wednesday
+
+**Today's Progress**: Birthday today but almost finished the Basic Algorithms, just a couple left to go. Reviewed APIs and Ajax. 
+
+**Thoughts**: Able to start Intermediate Projects on Free Code Camp tomorrow.
+
