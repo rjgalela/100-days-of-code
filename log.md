@@ -36,3 +36,9 @@
 
 **Thoughts**: Able to start Intermediate Projects on Free Code Camp tomorrow.
 
+### Day 7: January 12, Thursday
+
+**Today's Progress**: Finished the Basic Algorithms and started the Random Quote Machine project.
+
+**Thoughts**: Hitting the point where I have to do more research on my own and be self sufficient. 
+
