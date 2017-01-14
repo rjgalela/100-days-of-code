@@ -40,5 +40,11 @@
 
 **Today's Progress**: Finished the Basic Algorithms and started the Random Quote Machine project.
 
-**Thoughts**: Hitting the point where I have to do more research on my own and be self sufficient. 
+**Thoughts**: Hitting the point where I have to do more research on my own and be self sufficient.
+
+### Day 8: January 13, Friday
+
+**Today's Progress**: Worked on portfolio and FCC project.
+
+**Thoughts**: Didn't get much done today, progress was slow.
 
