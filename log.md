@@ -48,3 +48,9 @@
 
 **Thoughts**: Didn't get much done today, progress was slow.
 
+### Day 9: January 14, Saturday
+
+**Today's Progress**: Spend too long on one algorithm. Still tweaking Random Quote Machine project.
+
+**Thoughts**: Need to time myself and not spend too much time on one thing. Also take breaks.
+
