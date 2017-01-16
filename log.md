@@ -54,3 +54,9 @@
 
 **Thoughts**: Need to time myself and not spend too much time on one thing. Also take breaks.
 
+### Day 10: January 15, Sunday
+
+**Today's Progress**: Spend too long on one algorithm again... but finished next one easily. Overthinking a lot.
+
+**Thoughts**: I should probably invest in a whiteboard or try solving problems on paper if I'm stuck.
+
