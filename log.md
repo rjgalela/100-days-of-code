@@ -60,3 +60,9 @@
 
 **Thoughts**: I should probably invest in a whiteboard or try solving problems on paper if I'm stuck.
 
+### Day 11: January 16, Monday
+
+**Today's Progress**: Review day on Python stack. Pivoted from MEAN for a bit.
+
+**Thoughts**: As I'm learning new things, I need to make sure to refresh on old material such as other programming languages and frameworks.
+
