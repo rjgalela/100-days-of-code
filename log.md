@@ -66,3 +66,8 @@
 
 **Thoughts**: As I'm learning new things, I need to make sure to refresh on old material such as other programming languages and frameworks.
 
+### Day 12: January 17, Tuesday
+
+**Today's Progress**: Review day on Python stack with Flask. Rebuilding some projects.
+
+**Thoughts**: Taking it one step at a time. 
