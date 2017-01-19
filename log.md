@@ -71,3 +71,9 @@
 **Today's Progress**: Review day on Python stack with Flask. Rebuilding some projects.
 
 **Thoughts**: Taking it one step at a time. 
+
+### Day 13: January 18, Wednesday
+
+**Today's Progress**: Still tweaking Random Quote Machine project. 
+
+**Thoughts**: Want to finish it by tomorrow and start a new project.
