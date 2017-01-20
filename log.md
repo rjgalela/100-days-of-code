@@ -77,3 +77,9 @@
 **Today's Progress**: Still tweaking Random Quote Machine project. 
 
 **Thoughts**: Want to finish it by tomorrow and start a new project.
+
+### Day 14: January 19, Thursday
+
+**Today's Progress**: Finished Random Quote Machine project for now and started the next one, Local Weather.
+
+**Thoughts**: Feel like I'm about to hit that wall again but going to keep pushing.
