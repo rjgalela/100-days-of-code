@@ -83,3 +83,9 @@
 **Today's Progress**: Finished Random Quote Machine project for now and started the next one, Local Weather.
 
 **Thoughts**: Feel like I'm about to hit that wall again but going to keep pushing.
+
+### Day 15: January 20, Friday
+
+**Today's Progress**: Coded for just an hour today while looking at other APIs.
+
+**Thoughts**: Slow day, hoping to speed up my progress this weekend.
