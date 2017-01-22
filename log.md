@@ -89,3 +89,9 @@
 **Today's Progress**: Coded for just an hour today while looking at other APIs.
 
 **Thoughts**: Slow day, hoping to speed up my progress this weekend.
+
+### Day 16: January 21, Saturday
+
+**Today's Progress**: Continued working on Local Weather project and did a couple algorithms.
+
+**Thoughts**: Thinking of a personal project that might boost my productivity. 
