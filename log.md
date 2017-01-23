@@ -94,4 +94,10 @@
 
 **Today's Progress**: Continued working on Local Weather project and did a couple algorithms.
 
-**Thoughts**: Thinking of a personal project that might boost my productivity. 
+**Thoughts**: Thinking of a personal project that might boost my productivity.
+
+### Day 17: January 22, Sunday
+
+**Today's Progress**: Continued working on Local Weather project and did a couple algorithms.
+
+**Thoughts**: Hope to finish Weather project tomorrow.
