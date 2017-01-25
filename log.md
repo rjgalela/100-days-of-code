@@ -101,3 +101,9 @@
 **Today's Progress**: Continued working on Local Weather project and did a couple algorithms.
 
 **Thoughts**: Hope to finish Weather project tomorrow.
+
+### Day 18: January 24, Tuesday
+
+**Today's Progress**: Did a couple algorithms and research and review.
+
+**Thoughts**: Didn't count yesterday, even though I read and coded a bit while feeling sick.
