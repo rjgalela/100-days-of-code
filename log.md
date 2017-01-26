@@ -107,3 +107,9 @@
 **Today's Progress**: Did a couple algorithms and research and review.
 
 **Thoughts**: Didn't count yesterday, even though I read and coded a bit while feeling sick.
+
+### Day 19: January 25, Wednesday
+
+**Today's Progress**: Review day again and starting researching CSS preprocessors.
+
+**Thoughts**: There's a lot of basics I still need to work on. 
